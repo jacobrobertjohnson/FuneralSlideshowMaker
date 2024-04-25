@@ -1,2 +1,4 @@
 # FuneralSlideshowMaker
-Or really any slideshow. But lately, all I seem to do is funerals.
+Between my wife's and my families, we have had six funerals in the past 18 months. In half of those instances, I -- as the Relative Who's Good With Computers™ -- have been tapped to create the photo slideshows for the visitations. I slogged through the first two using typical movie editors (KdenLive and Lightworks, I believe), but found them inflexible. Due to the rushed nature of postmortem preparations, new photos would arrive up to the last possible minute, throwing off whatever narrative arrangement I had commpleted up to that point.
+
+To work around this, I opted to automate the process with a filename-based approach. Files could be named in an ordered fashion, new entries could be dropped into that structure, and the script to generate the final MP4 file could be run as many times as needed.
